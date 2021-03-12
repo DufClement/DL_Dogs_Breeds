@@ -24,3 +24,7 @@ Concernant le transfer learning, votre ami vous précise que :
 - pip install pandas
 - pip install tensorflow
 - pip install matplotlib
+
+
+- Placer le dossier avec les images déziper dans le dossier Projet
+- Éxecuter le premier notebook Dogs_breed.ipynb pour répartir les images en train test valid 
